@@ -1,0 +1,5 @@
+Kompentensi SDKD
+a. komunikasi daring sinkron
+b. komunikasi daring asinkron
+c. GitHub
+d. Git
