@@ -2,3 +2,5 @@ Mata pelajaran produktif
 1. simulasi dan komunikasi digital 
 2. pemrogaman dasar
 3. komputer jaringan dasar
+4. Fisika
+5. Dasar desain grafis
